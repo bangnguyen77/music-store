@@ -1,6 +1,6 @@
-# _Angular2 App Template_
+# _Music Store App Using Angular2_
 
-##### Template for web applications made with Angular.js
+##### Web Application for practicing TypeScript and the use of Angular2.
 
 
 Installation
@@ -8,7 +8,7 @@ Installation
 
 First clone the repository.  
 ```
-$ git clone https://github.com/noahramey/angular2-template.git
+$ git clone https://github.com/noahramey/music-store.git
 ```
 
 Remove the git remote url from the local repository.  
